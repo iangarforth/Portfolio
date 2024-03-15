@@ -1,0 +1,19 @@
+scene_number,scene_title,scene_text,choice_one,choice_one_redirect,choice_two,choice_two_redirect,choice_three,choice_three-redirect,functions_to_pass,quantity_to_pass,message_to_pass
+1,Car Park,"You arrive late. This is not unusual. Life always seems to make you late.\n \nThe car park is busy. There are only a handful of spaces - the nearest legit one is at the far corner of the car park, but if you like, you could squeeze up next to the Mummy Bus 2022 Land Rover, or just stick it in the blue badge space. You do not have a blue badge. Would you like to park in:",The far corner of the car park,2,Squeezed up to the Mummy Bus,3,In the blue badge space,4,,,
+2,Far corner of the car park,"You find a space in the far corner of the car park. It has a different post code to the main shop.  You have to walk a substantial way across the car park.  On the way, 3 teenage scrotes hassle you for money to ""look after your car"".",Give them a fiver,9,Tell them where to shove it their ill-gotten gains,10,Run for the entrance,11,stamina,5,
+3,Squeezed up to the mummy bus,"You squeeze up to the Mummy Bus, and get nice and tight, thinking you can always get out of the passenger side.  Unfortunately, as you do so, a man called Dean reverses a camper van in, boxing you in on that side too. ",Wait for Dean to finish his shopping,12,Climb out through the boot,13,Try to find another space.,2,time,4,You curse the man as you hop over the back seat. It costs you
+4,Blue Badge parking,"You brazen it out, and tell yourself that despite not having either a Blue Badge or a disability, nobody else can challenge you because ""not all disabilities are visible"". As you get your bags out of the boot, a man with one leg and on crutches scowls at your windsdreen and then spits on your car.",Ignore Mr Spitty and carry on with your shopping,5,Explain to Mr Spitty why you consider this suboptimal behaviour,14,Swear at Mr Spitty,15,patience,3,The interaction with Spitting Man annoys you.  You lost
+5,Portage choice,"As you approach the trolley park, you realise you don't have a £1 coin for the trolley. Do you:",Try to liberate someone else's trolley before they return it,6,Get a basket from inside,7,Try to carry your shopping manually,8,,,
+6,Trolley liberation,,,,,,,,,,
+7,Find a basket,,,,,,,,,,
+8,Carry your shopping manually,,,,,,,,,,
+9,Pay off the Protection Racket,,,,,,,,,,
+10,Give the youths a piece of your mind,,,,,,,,,,
+11,Run like hell,,,,,,,,,,
+12,Wait for Dean,,,,,,,,,,
+13,Boot parkour,,,,,,,,,,
+14,Parlay with Mr Spitty,,,,,,,,,,
+15,Mr Spitty Expletive Exchange,,,,,,,,,,
+16,,,,,,,,,,,
+17,,,,,,,,,,,
+18,,,,,,,,,,,

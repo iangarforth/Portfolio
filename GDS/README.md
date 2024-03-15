@@ -1,0 +1,7 @@
+# **German Discount Supermarkets: the Role-Playing Game**
+
+I created GDS in Python as an early portfolio project, and for me, it remains in my portfolio for several reasons.  Whilst one is probably nostaliga, I think it serves as a good reminder for me that despite being conceptually fairly simple (what are text-based RPGs if not a series of If-Then statements?), it also underlines the fact that content is always more important than technology, and whilst it may well be the case that not everyone shares my sense of humour, it still has the capacity to make me chuckle.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Originally, it was written to play around with the capabilities of classes and objects, though later turned out to not necessarily lean on these in the way that I thought it would. In particular, I'd originally planned to have each scene be created as an object, but in the event, decided that this was likely to make the source file somewhat unwieldy, and explored instead the idea of using a CSV file as a flat-file database, in which each row existed as a scene, and each column existed as a field.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;An early challenge turned out to be how to implement a function from the CSV file - lose_time(10), or lose_stamina(15), for example.  In the event, I passed a code from the 'function_to_implement' column which was looked up in the main game loop through an if/elif process, with a second column providing the amount to pass into the function. This proved a satisfactory solution for the task at hand.
+ 
+	iangarforth@gmail.com
